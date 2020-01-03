@@ -1,4 +1,4 @@
-# mario_kart_randomizer
+# Mario Kart Randomizer
 Basic command line tool that randomizes characters, vehicles, parts, etc. Code can be used for web pages or GUIs if it's compatible with Python 3.
 
 This set of tools includes randomizers for:
