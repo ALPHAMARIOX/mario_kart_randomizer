@@ -14,3 +14,6 @@ This set of tools includes randomizers for:
 - Mario Kart 8 Deluxe
 
 Feel free to implement them in more GUI based or web based generators.
+
+To use in console type `python filename.py`
+Once in the programs, press `Enter` to randomize and type `n` to quit. In the Mario Kart Wii Randomizer, type `b` for randomizing Battle Mode, including character, vehicle and mode.
